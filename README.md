@@ -8,11 +8,6 @@ Current version lacks advanced swiping strategy and messaging features; more to 
 ### Running the Bot
 1. Before running the bot, make sure you enter your Gmail and Facebook login information into `login_info.py`
 2. Ensure you have the Selenium installed using `pip`:
-```python
-pip install selenium
-``` 
+   `pip install selenium` 
 3. Make sure to download ChromeDriver [here](https://chromedriver.chromium.org/)
-4. Run the following command:
-```python
-python bot.py
-``` 
+4. Run the following command: `python bot.py` 
