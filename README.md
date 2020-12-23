@@ -2,7 +2,7 @@
 Automating my love life.
 
 ### Overview (v1)
-A simple bot written in Python that uses Selenium to automate the process of logging into Tinder and swiping right on Tinder profiles. 
+A stupidly simple bot written in Python that uses Selenium to automate the process of logging into Tinder and swiping right on Tinder profiles. 
 Current version lacks advanced swiping strategy and messaging features; more to come in future versions.
 
 ### Running the Bot
